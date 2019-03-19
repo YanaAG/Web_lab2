@@ -18,3 +18,13 @@
     font-weight: bold;
     color: #505050;
 }
+
+.footer{
+    background: url(../img/footer.jpg);
+    background-size: cover;
+}
+
+.form-group {
+    color: #2b2b2b;
+    font-weight: bold;
+}
