@@ -9,3 +9,12 @@
     color: #505050;
     font-weight: bold;
 }
+
+.card{
+    width: 24rem;
+}
+
+.card-title{
+    font-weight: bold;
+    color: #505050;
+}
