@@ -10,6 +10,11 @@
     font-weight: bold;
 }
 
+.h4{
+    text-align: center;
+    color: #505050;
+}
+
 .card{
     width: 18rem;
 }
