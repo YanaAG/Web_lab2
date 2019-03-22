@@ -35,7 +35,6 @@
 }
 
 .footer .list-item-footer{
-    color: #2b2b2b;
     font-weight: bold;
     margin-bottom: 20px;
 }
@@ -46,4 +45,14 @@
 
 .footer .menu-footer{
     margin-top: 8em;
+}
+
+@media screen and (max-width: 575px) {
+    .footer .list-link-footer{
+        color: white;
+    }
+
+    .footer .menu-footer{
+        margin-top: 5px;
+    }
 }
